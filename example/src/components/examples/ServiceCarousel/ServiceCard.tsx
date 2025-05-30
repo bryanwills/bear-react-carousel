@@ -25,7 +25,7 @@ const ServiceCard = ({
     desc,
     isActive,
 }: IProps) => {
-    return <ServiceCardRoot className={className} isActive={isActive}>
+    return <ServiceCardRoot className={className} $isActive={isActive}>
         <ServiceIcon>
             <img src={asset('/images/service_carousel/union.svg')} width="50" height="50"/>
         </ServiceIcon>
@@ -73,7 +73,7 @@ const ServiceIcon = styled.div`
 `;
 
 const ServiceCardRoot = styled.div<{
-    isActive: boolean,
+    $isActive: boolean,
 }>`
     width: 100%;
     padding: 50px 30px;
@@ -106,7 +106,7 @@ const ServiceCardRoot = styled.div<{
     }
 
 
-  ${props => props.isActive && css`
+  ${props => props.$isActive && css`
     .text{
       color: transparent;
     }

@@ -66,7 +66,7 @@ class Controller {
 
         const {virtual, formatElement} = this._stater;
 
-        const {height} = this._elState.getMoveDistance(formatElement[virtual.activeIndex].matchIndex);
+        const {height} = this._elState.getMoveDistance(formatElement[virtual.activeIndex]?.matchIndex) ?? 0;
 
         this._elState
             .transform({height}, false)
