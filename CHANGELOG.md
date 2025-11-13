@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.3.4](https://github.com/acrool/acrool-react-carousel/compare/v5.3.3...v5.3.4) (2025-11-13)
+
+
+### Bug Fixes
+
+* add box-sizing to `.pagination-content` for consistent styling ([c1a0167](https://github.com/acrool/acrool-react-carousel/commit/c1a0167c4a867e16fd53962297e45c324f4eb46f))
+
 ### [5.3.3](https://github.com/acrool/acrool-react-carousel/compare/v5.3.3-alpha.0...v5.3.3) (2025-06-08)
 
 ### [5.3.3-alpha.0](https://github.com/acrool/acrool-react-carousel/compare/v5.3.2...v5.3.3-alpha.0) (2025-05-30)
