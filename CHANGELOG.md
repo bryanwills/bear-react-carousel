@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.3.8](https://github.com/acrool/acrool-react-carousel/compare/v5.3.7...v5.3.8) (2025-11-13)
+
+
+### Bug Fixes
+
+* **ci:** disable Yarn immutable installs in example workflow ([50ba3ee](https://github.com/acrool/acrool-react-carousel/commit/50ba3ee0ee2dab12627053a036ea6e492b02f64c))
+
 ### [5.3.7](https://github.com/acrool/acrool-react-carousel/compare/v5.3.6...v5.3.7) (2025-11-13)
 
 
