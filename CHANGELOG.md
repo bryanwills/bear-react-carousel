@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.3.6](https://github.com/acrool/acrool-react-carousel/compare/v5.3.5...v5.3.6) (2025-11-13)
+
+
+### Bug Fixes
+
+* remove install-state.gz from git tracking ([975e2c8](https://github.com/acrool/acrool-react-carousel/commit/975e2c8074fdf6f37b3eddba0cf0a45a63e59e70))
+
 ### [5.3.5](https://github.com/acrool/acrool-react-carousel/compare/v5.3.4...v5.3.5) (2025-11-13)
 
 ### [5.3.4](https://github.com/acrool/acrool-react-carousel/compare/v5.3.3...v5.3.4) (2025-11-13)
