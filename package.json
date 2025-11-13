@@ -10,7 +10,6 @@
     "carousel",
     "swiper"
   ],
-  "private": false,
   "license": "MIT",
   "repository": {
     "type": "git",
