@@ -11,6 +11,7 @@
     "swiper"
   ],
   "license": "MIT",
+  "packageManager": "yarn@4.9.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/acrool/acrool-react-carousel.git"
