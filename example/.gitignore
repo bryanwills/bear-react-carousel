@@ -35,5 +35,4 @@ storybook-static
 !.yarn/versions
 
 # Not ignore
-!install-state.gz
 !yarn.lock
