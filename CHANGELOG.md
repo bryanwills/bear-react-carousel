@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.3.7](https://github.com/acrool/acrool-react-carousel/compare/v5.3.6...v5.3.7) (2025-11-13)
+
+
+### Bug Fixes
+
+* ensure Yarn 4 compatibility in CI/CD ([5b5ec39](https://github.com/acrool/acrool-react-carousel/commit/5b5ec39da66481713ba991b87c48e60fce3135ba))
+
 ### [5.3.6](https://github.com/acrool/acrool-react-carousel/compare/v5.3.5...v5.3.6) (2025-11-13)
 
 
